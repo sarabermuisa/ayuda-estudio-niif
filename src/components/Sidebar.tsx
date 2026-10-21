@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 
 /**
@@ -36,6 +37,7 @@ const DEFAULT_GROUPS: SidebarGroup[] = [
 
 export default function Sidebar({ groups }: SidebarProps) {
   const [open, setOpen] = useState(false);
+  const pathname = usePathname();
   const data = groups && groups.length > 0 ? groups : DEFAULT_GROUPS;
 
   // Grupos de familia colapsados (por id). Por defecto todos abiertos.
@@ -101,17 +103,26 @@ export default function Sidebar({ groups }: SidebarProps) {
                     id={`niif-group-${group.id}`}
                     className={`${isCollapsed ? "hidden" : "block"} space-y-1`}
                   >
-                    {group.items.map((item) => (
-                      <li key={item.slug}>
-                        <Link
-                          href={`/norma/${item.slug}`}
-                          className="block rounded-md px-2 py-1 text-sm text-ink/80 transition hover:bg-mint hover:text-ink"
-                        >
-                          <span className="font-medium">{item.code}</span>{" "}
-                          <span className="text-ink/60">{item.title}</span>
-                        </Link>
-                      </li>
-                    ))}
+                    {group.items.map((item) => {
+                      const isActive = pathname === `/norma/${item.slug}`;
+                      return (
+                        <li key={item.slug}>
+                          <Link
+                            href={`/norma/${item.slug}`}
+                            aria-current={isActive ? "page" : undefined}
+                            onClick={() => setOpen(false)}
+                            className={`block rounded-md px-2 py-1 text-sm transition hover:bg-mint hover:text-ink ${
+                              isActive
+                                ? "bg-mint font-semibold text-ink ring-1 ring-mint"
+                                : "text-ink/80"
+                            }`}
+                          >
+                            <span className="font-medium">{item.code}</span>{" "}
+                            <span className="text-ink/60">{item.title}</span>
+                          </Link>
+                        </li>
+                      );
+                    })}
                   </ul>
                 )}
               </section>
