@@ -43,7 +43,7 @@ export default function HomePage() {
         Explora las Normas Internacionales de Información Financiera
         (NIIF/IFRS, NIC/IAS, CINIIF/IFRIC y SIC). Usa el índice de la izquierda
         o la búsqueda para encontrar una norma concreta. Actualmente hay{" "}
-        <strong>{total}</strong> normas disponibles.
+        <strong>{total}</strong> {total === 1 ? "norma disponible" : "normas disponibles"}.
       </p>
 
       <div className="not-prose my-6 rounded-xl bg-peach/40 p-4 ring-1 ring-peach">
@@ -79,7 +79,7 @@ export default function HomePage() {
                 {FAMILY_LABELS[familia]}
               </span>
               <span className="text-sm font-normal text-ink/50">
-                {items.length} normas
+                {items.length} {items.length === 1 ? "norma" : "normas"}
               </span>
             </h2>
             <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">

@@ -125,8 +125,8 @@ interface Standard {
   objetivo: string;    // objetivo de la norma
   alcance: string;     // alcance de la norma
   secciones: Section[]; // al menos una
-  sintetico: true;     // marca que el cuerpo es de ejemplo; ponlo en false
-                       // cuando sustituyas por texto oficial, si lo prefieres
+  sintetico: boolean;  // true = cuerpo de ejemplo; ponlo en false cuando
+                       // sustituyas por el texto oficial de los PDFs
 }
 ```
 

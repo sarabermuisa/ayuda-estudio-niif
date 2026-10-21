@@ -47,8 +47,12 @@ export interface Standard {
   alcance: string;
   /** Secciones con su contenido. */
   secciones: Section[];
-  /** Marca que el cuerpo es contenido sintético/de ejemplo. */
-  sintetico: true;
+  /**
+   * Marca si el cuerpo es contenido sintético/de ejemplo.
+   * `true` mientras sea un marcador generado; ponlo en `false` cuando
+   * sustituyas el texto por el oficial de los PDFs.
+   */
+  sintetico: boolean;
 }
 
 /** Etiquetas legibles por familia, usadas en la navegación y encabezados. */

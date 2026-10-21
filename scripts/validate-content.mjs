@@ -7,7 +7,8 @@
  *  - cada norma tiene slug único (global),
  *  - codigo/titulo/objetivo/alcance no vacíos,
  *  - al menos una sección con al menos un párrafo,
- *  - familia válida (IFRS | IAS | IFRIC | SIC).
+ *  - familia válida (IFRS | IAS | IFRIC | SIC),
+ *  - 'sintetico' es un booleano (true = ejemplo, false = texto oficial).
  *
  * Imprime los conteos por familia y termina con código distinto de cero si
  * encuentra algún error.
@@ -97,8 +98,8 @@ for (const [familia, fileName] of Object.entries(FILES)) {
       }
     }
 
-    if (std.sintetico !== true) {
-      errors.push(`${where}: 'sintetico' debe ser true`);
+    if (typeof std.sintetico !== "boolean") {
+      errors.push(`${where}: 'sintetico' debe ser un booleano (true/false)`);
     }
 
     if (!Array.isArray(std.secciones) || std.secciones.length === 0) {

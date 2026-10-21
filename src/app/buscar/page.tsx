@@ -16,7 +16,8 @@ export default function BuscarPage() {
       <h1>Buscar en las normas</h1>
       <p>
         Encuentra cualquier norma por su código, título o por el texto de sus
-        párrafos. Hay <strong>{records.length}</strong> párrafos indexados.
+        párrafos. Hay <strong>{records.length}</strong>{" "}
+        {records.length === 1 ? "párrafo indexado" : "párrafos indexados"}.
       </p>
       <div className="mt-6">
         <SearchBox records={records} />
