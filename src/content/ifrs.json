@@ -1,0 +1,1172 @@
+[
+  {
+    "slug": "niif-1",
+    "familia": "IFRS",
+    "numero": 1,
+    "codigo": "NIIF 1",
+    "titulo": "Adopción por primera vez de las NIIF",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 1 «Adopción por primera vez de las NIIF» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 1 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Adopción por primera vez de las NIIF». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 1 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Adopción por primera vez de las NIIF». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Adopción por primera vez de las NIIF» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 1. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 1 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Adopción por primera vez de las NIIF». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-2",
+    "familia": "IFRS",
+    "numero": 2,
+    "codigo": "NIIF 2",
+    "titulo": "Pagos basados en acciones",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 2 «Pagos basados en acciones» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 2 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Pagos basados en acciones». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 2 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Pagos basados en acciones». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Pagos basados en acciones» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 2. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 2 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Pagos basados en acciones». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-3",
+    "familia": "IFRS",
+    "numero": 3,
+    "codigo": "NIIF 3",
+    "titulo": "Combinaciones de negocios",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 3 «Combinaciones de negocios» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 3 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Combinaciones de negocios». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 3 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Combinaciones de negocios». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Combinaciones de negocios» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 3. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 3 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Combinaciones de negocios». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-4",
+    "familia": "IFRS",
+    "numero": 4,
+    "codigo": "NIIF 4",
+    "titulo": "Contratos de seguro",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 4 «Contratos de seguro» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 4 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Contratos de seguro». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 4 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Contratos de seguro». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Contratos de seguro» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 4. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 4 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Contratos de seguro». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-5",
+    "familia": "IFRS",
+    "numero": 5,
+    "codigo": "NIIF 5",
+    "titulo": "Activos no corrientes mantenidos para la venta y operaciones discontinuadas",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 5 «Activos no corrientes mantenidos para la venta y operaciones discontinuadas» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 5 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Activos no corrientes mantenidos para la venta y operaciones discontinuadas». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 5 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Activos no corrientes mantenidos para la venta y operaciones discontinuadas». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Activos no corrientes mantenidos para la venta y operaciones discontinuadas» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 5. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 5 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Activos no corrientes mantenidos para la venta y operaciones discontinuadas». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-6",
+    "familia": "IFRS",
+    "numero": 6,
+    "codigo": "NIIF 6",
+    "titulo": "Exploración y evaluación de recursos minerales",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 6 «Exploración y evaluación de recursos minerales» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 6 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Exploración y evaluación de recursos minerales». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 6 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Exploración y evaluación de recursos minerales». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Exploración y evaluación de recursos minerales» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 6. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 6 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Exploración y evaluación de recursos minerales». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-7",
+    "familia": "IFRS",
+    "numero": 7,
+    "codigo": "NIIF 7",
+    "titulo": "Instrumentos financieros: Información a revelar",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 7 «Instrumentos financieros: Información a revelar» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 7 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Instrumentos financieros: Información a revelar». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 7 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Instrumentos financieros: Información a revelar». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Instrumentos financieros: Información a revelar» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 7. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 7 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Instrumentos financieros: Información a revelar». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-8",
+    "familia": "IFRS",
+    "numero": 8,
+    "codigo": "NIIF 8",
+    "titulo": "Segmentos de operación",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 8 «Segmentos de operación» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 8 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Segmentos de operación». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 8 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Segmentos de operación». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Segmentos de operación» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 8. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 8 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Segmentos de operación». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-9",
+    "familia": "IFRS",
+    "numero": 9,
+    "codigo": "NIIF 9",
+    "titulo": "Instrumentos financieros",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 9 «Instrumentos financieros» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 9 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Instrumentos financieros». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 9 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Instrumentos financieros». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Instrumentos financieros» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 9. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 9 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Instrumentos financieros». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-10",
+    "familia": "IFRS",
+    "numero": 10,
+    "codigo": "NIIF 10",
+    "titulo": "Estados financieros consolidados",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 10 «Estados financieros consolidados» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 10 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Estados financieros consolidados». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 10 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Estados financieros consolidados». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Estados financieros consolidados» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 10. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 10 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Estados financieros consolidados». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-11",
+    "familia": "IFRS",
+    "numero": 11,
+    "codigo": "NIIF 11",
+    "titulo": "Acuerdos conjuntos",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 11 «Acuerdos conjuntos» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 11 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Acuerdos conjuntos». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 11 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Acuerdos conjuntos». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Acuerdos conjuntos» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 11. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 11 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Acuerdos conjuntos». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-12",
+    "familia": "IFRS",
+    "numero": 12,
+    "codigo": "NIIF 12",
+    "titulo": "Información a revelar sobre participaciones en otras entidades",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 12 «Información a revelar sobre participaciones en otras entidades» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 12 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Información a revelar sobre participaciones en otras entidades». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 12 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Información a revelar sobre participaciones en otras entidades». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Información a revelar sobre participaciones en otras entidades» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 12. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 12 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Información a revelar sobre participaciones en otras entidades». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-13",
+    "familia": "IFRS",
+    "numero": 13,
+    "codigo": "NIIF 13",
+    "titulo": "Medición del valor razonable",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 13 «Medición del valor razonable» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 13 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Medición del valor razonable». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 13 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Medición del valor razonable». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Medición del valor razonable» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 13. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 13 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Medición del valor razonable». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-14",
+    "familia": "IFRS",
+    "numero": 14,
+    "codigo": "NIIF 14",
+    "titulo": "Cuentas de diferimientos de actividades reguladas",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 14 «Cuentas de diferimientos de actividades reguladas» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 14 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Cuentas de diferimientos de actividades reguladas». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 14 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Cuentas de diferimientos de actividades reguladas». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Cuentas de diferimientos de actividades reguladas» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 14. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 14 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Cuentas de diferimientos de actividades reguladas». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-15",
+    "familia": "IFRS",
+    "numero": 15,
+    "codigo": "NIIF 15",
+    "titulo": "Ingresos de actividades ordinarias procedentes de contratos con clientes",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 15 «Ingresos de actividades ordinarias procedentes de contratos con clientes» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 15 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Ingresos de actividades ordinarias procedentes de contratos con clientes». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 15 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Ingresos de actividades ordinarias procedentes de contratos con clientes». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Ingresos de actividades ordinarias procedentes de contratos con clientes» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 15. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 15 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Ingresos de actividades ordinarias procedentes de contratos con clientes». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-16",
+    "familia": "IFRS",
+    "numero": 16,
+    "codigo": "NIIF 16",
+    "titulo": "Arrendamientos",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 16 «Arrendamientos» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 16 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Arrendamientos». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 16 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Arrendamientos». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Arrendamientos» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 16. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 16 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Arrendamientos». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-17",
+    "familia": "IFRS",
+    "numero": 17,
+    "codigo": "NIIF 17",
+    "titulo": "Contratos de seguro",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 17 «Contratos de seguro» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 17 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Contratos de seguro». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 17 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Contratos de seguro». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Contratos de seguro» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 17. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 17 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Contratos de seguro». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "niif-18",
+    "familia": "IFRS",
+    "numero": 18,
+    "codigo": "NIIF 18",
+    "titulo": "Presentación e información a revelar en los estados financieros",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIIF 18 «Presentación e información a revelar en los estados financieros» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIIF / IFRS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIIF 18 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Presentación e información a revelar en los estados financieros». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIIF 18 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Presentación e información a revelar en los estados financieros». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Presentación e información a revelar en los estados financieros» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIIF 18. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIIF 18 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Presentación e información a revelar en los estados financieros». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  }
+]

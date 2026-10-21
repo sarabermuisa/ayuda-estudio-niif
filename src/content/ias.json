@@ -1,0 +1,1627 @@
+[
+  {
+    "slug": "nic-1",
+    "familia": "IAS",
+    "numero": 1,
+    "codigo": "NIC 1",
+    "titulo": "Presentación de estados financieros",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 1 «Presentación de estados financieros» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 1 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Presentación de estados financieros». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 1 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Presentación de estados financieros». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Presentación de estados financieros» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 1. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 1 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Presentación de estados financieros». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-2",
+    "familia": "IAS",
+    "numero": 2,
+    "codigo": "NIC 2",
+    "titulo": "Inventarios",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 2 «Inventarios» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 2 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Inventarios». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 2 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Inventarios». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Inventarios» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 2. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 2 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Inventarios». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-7",
+    "familia": "IAS",
+    "numero": 7,
+    "codigo": "NIC 7",
+    "titulo": "Estado de flujos de efectivo",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 7 «Estado de flujos de efectivo» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 7 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Estado de flujos de efectivo». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 7 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Estado de flujos de efectivo». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Estado de flujos de efectivo» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 7. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 7 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Estado de flujos de efectivo». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-8",
+    "familia": "IAS",
+    "numero": 8,
+    "codigo": "NIC 8",
+    "titulo": "Políticas contables, cambios en las estimaciones contables y errores",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 8 «Políticas contables, cambios en las estimaciones contables y errores» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 8 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Políticas contables, cambios en las estimaciones contables y errores». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 8 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Políticas contables, cambios en las estimaciones contables y errores». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Políticas contables, cambios en las estimaciones contables y errores» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 8. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 8 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Políticas contables, cambios en las estimaciones contables y errores». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-10",
+    "familia": "IAS",
+    "numero": 10,
+    "codigo": "NIC 10",
+    "titulo": "Hechos ocurridos después del periodo sobre el que se informa",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 10 «Hechos ocurridos después del periodo sobre el que se informa» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 10 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Hechos ocurridos después del periodo sobre el que se informa». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 10 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Hechos ocurridos después del periodo sobre el que se informa». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Hechos ocurridos después del periodo sobre el que se informa» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 10. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 10 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Hechos ocurridos después del periodo sobre el que se informa». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-12",
+    "familia": "IAS",
+    "numero": 12,
+    "codigo": "NIC 12",
+    "titulo": "Impuesto a las ganancias",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 12 «Impuesto a las ganancias» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 12 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Impuesto a las ganancias». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 12 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Impuesto a las ganancias». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Impuesto a las ganancias» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 12. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 12 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Impuesto a las ganancias». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-16",
+    "familia": "IAS",
+    "numero": 16,
+    "codigo": "NIC 16",
+    "titulo": "Propiedades, planta y equipo",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 16 «Propiedades, planta y equipo» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 16 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Propiedades, planta y equipo». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 16 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Propiedades, planta y equipo». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Propiedades, planta y equipo» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 16. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 16 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Propiedades, planta y equipo». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-19",
+    "familia": "IAS",
+    "numero": 19,
+    "codigo": "NIC 19",
+    "titulo": "Beneficios a los empleados",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 19 «Beneficios a los empleados» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 19 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Beneficios a los empleados». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 19 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Beneficios a los empleados». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Beneficios a los empleados» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 19. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 19 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Beneficios a los empleados». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-20",
+    "familia": "IAS",
+    "numero": 20,
+    "codigo": "NIC 20",
+    "titulo": "Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 20 «Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 20 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 20 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 20. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 20 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Contabilización de las subvenciones del gobierno e información a revelar sobre ayudas gubernamentales». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-21",
+    "familia": "IAS",
+    "numero": 21,
+    "codigo": "NIC 21",
+    "titulo": "Efectos de las variaciones en las tasas de cambio de la moneda extranjera",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 21 «Efectos de las variaciones en las tasas de cambio de la moneda extranjera» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 21 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Efectos de las variaciones en las tasas de cambio de la moneda extranjera». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 21 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Efectos de las variaciones en las tasas de cambio de la moneda extranjera». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Efectos de las variaciones en las tasas de cambio de la moneda extranjera» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 21. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 21 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Efectos de las variaciones en las tasas de cambio de la moneda extranjera». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-23",
+    "familia": "IAS",
+    "numero": 23,
+    "codigo": "NIC 23",
+    "titulo": "Costos por préstamos",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 23 «Costos por préstamos» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 23 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Costos por préstamos». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 23 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Costos por préstamos». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Costos por préstamos» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 23. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 23 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Costos por préstamos». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-24",
+    "familia": "IAS",
+    "numero": 24,
+    "codigo": "NIC 24",
+    "titulo": "Información a revelar sobre partes relacionadas",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 24 «Información a revelar sobre partes relacionadas» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 24 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Información a revelar sobre partes relacionadas». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 24 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Información a revelar sobre partes relacionadas». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Información a revelar sobre partes relacionadas» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 24. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 24 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Información a revelar sobre partes relacionadas». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-26",
+    "familia": "IAS",
+    "numero": 26,
+    "codigo": "NIC 26",
+    "titulo": "Contabilización e información financiera sobre planes de beneficio por retiro",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 26 «Contabilización e información financiera sobre planes de beneficio por retiro» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 26 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Contabilización e información financiera sobre planes de beneficio por retiro». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 26 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Contabilización e información financiera sobre planes de beneficio por retiro». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Contabilización e información financiera sobre planes de beneficio por retiro» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 26. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 26 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Contabilización e información financiera sobre planes de beneficio por retiro». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-27",
+    "familia": "IAS",
+    "numero": 27,
+    "codigo": "NIC 27",
+    "titulo": "Estados financieros separados",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 27 «Estados financieros separados» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 27 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Estados financieros separados». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 27 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Estados financieros separados». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Estados financieros separados» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 27. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 27 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Estados financieros separados». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-28",
+    "familia": "IAS",
+    "numero": 28,
+    "codigo": "NIC 28",
+    "titulo": "Inversiones en asociadas y negocios conjuntos",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 28 «Inversiones en asociadas y negocios conjuntos» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 28 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Inversiones en asociadas y negocios conjuntos». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 28 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Inversiones en asociadas y negocios conjuntos». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Inversiones en asociadas y negocios conjuntos» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 28. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 28 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Inversiones en asociadas y negocios conjuntos». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-29",
+    "familia": "IAS",
+    "numero": 29,
+    "codigo": "NIC 29",
+    "titulo": "Información financiera en economías hiperinflacionarias",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 29 «Información financiera en economías hiperinflacionarias» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 29 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Información financiera en economías hiperinflacionarias». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 29 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Información financiera en economías hiperinflacionarias». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Información financiera en economías hiperinflacionarias» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 29. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 29 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Información financiera en economías hiperinflacionarias». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-32",
+    "familia": "IAS",
+    "numero": 32,
+    "codigo": "NIC 32",
+    "titulo": "Instrumentos financieros: Presentación",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 32 «Instrumentos financieros: Presentación» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 32 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Instrumentos financieros: Presentación». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 32 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Instrumentos financieros: Presentación». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Instrumentos financieros: Presentación» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 32. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 32 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Instrumentos financieros: Presentación». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-33",
+    "familia": "IAS",
+    "numero": 33,
+    "codigo": "NIC 33",
+    "titulo": "Ganancias por acción",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 33 «Ganancias por acción» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 33 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Ganancias por acción». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 33 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Ganancias por acción». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Ganancias por acción» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 33. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 33 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Ganancias por acción». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-34",
+    "familia": "IAS",
+    "numero": 34,
+    "codigo": "NIC 34",
+    "titulo": "Información financiera intermedia",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 34 «Información financiera intermedia» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 34 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Información financiera intermedia». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 34 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Información financiera intermedia». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Información financiera intermedia» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 34. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 34 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Información financiera intermedia». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-36",
+    "familia": "IAS",
+    "numero": 36,
+    "codigo": "NIC 36",
+    "titulo": "Deterioro del valor de los activos",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 36 «Deterioro del valor de los activos» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 36 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Deterioro del valor de los activos». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 36 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Deterioro del valor de los activos». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Deterioro del valor de los activos» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 36. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 36 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Deterioro del valor de los activos». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-37",
+    "familia": "IAS",
+    "numero": 37,
+    "codigo": "NIC 37",
+    "titulo": "Provisiones, pasivos contingentes y activos contingentes",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 37 «Provisiones, pasivos contingentes y activos contingentes» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 37 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Provisiones, pasivos contingentes y activos contingentes». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 37 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Provisiones, pasivos contingentes y activos contingentes». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Provisiones, pasivos contingentes y activos contingentes» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 37. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 37 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Provisiones, pasivos contingentes y activos contingentes». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-38",
+    "familia": "IAS",
+    "numero": 38,
+    "codigo": "NIC 38",
+    "titulo": "Activos intangibles",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 38 «Activos intangibles» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 38 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Activos intangibles». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 38 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Activos intangibles». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Activos intangibles» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 38. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 38 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Activos intangibles». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-39",
+    "familia": "IAS",
+    "numero": 39,
+    "codigo": "NIC 39",
+    "titulo": "Instrumentos financieros: Reconocimiento y medición",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 39 «Instrumentos financieros: Reconocimiento y medición» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 39 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Instrumentos financieros: Reconocimiento y medición». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 39 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Instrumentos financieros: Reconocimiento y medición». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Instrumentos financieros: Reconocimiento y medición» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 39. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 39 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Instrumentos financieros: Reconocimiento y medición». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-40",
+    "familia": "IAS",
+    "numero": 40,
+    "codigo": "NIC 40",
+    "titulo": "Propiedades de inversión",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 40 «Propiedades de inversión» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 40 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Propiedades de inversión». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 40 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Propiedades de inversión». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Propiedades de inversión» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 40. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 40 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Propiedades de inversión». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "nic-41",
+    "familia": "IAS",
+    "numero": 41,
+    "codigo": "NIC 41",
+    "titulo": "Agricultura",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de NIC 41 «Agricultura» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia NIC / IAS.",
+    "alcance": "[CONTENIDO DE EJEMPLO] NIC 41 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Agricultura». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en NIC 41 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Agricultura». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Agricultura» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a NIC 41. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría NIC 41 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Agricultura». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  }
+]

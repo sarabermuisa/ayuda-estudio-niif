@@ -38,6 +38,11 @@ export default function Sidebar({ groups }: SidebarProps) {
   const [open, setOpen] = useState(false);
   const data = groups && groups.length > 0 ? groups : DEFAULT_GROUPS;
 
+  // Grupos de familia colapsados (por id). Por defecto todos abiertos.
+  const [collapsed, setCollapsed] = useState<Record<string, boolean>>({});
+  const toggleGroup = (id: string) =>
+    setCollapsed((prev) => ({ ...prev, [id]: !prev[id] }));
+
   return (
     <>
       {/* Botón de alternancia (solo móvil) */}
@@ -60,30 +65,58 @@ export default function Sidebar({ groups }: SidebarProps) {
         } w-full shrink-0 md:block md:w-72`}
       >
         <div className="space-y-6 rounded-xl bg-white/60 p-4 shadow-sm ring-1 ring-sky/60">
-          {data.map((group) => (
-            <section key={group.id}>
-              <h2 className="mb-2 text-xs font-bold uppercase tracking-wide text-ink/60">
-                {group.label}
-              </h2>
-              {group.items.length === 0 ? (
-                <p className="text-sm text-ink/40">Próximamente…</p>
-              ) : (
-                <ul className="space-y-1">
-                  {group.items.map((item) => (
-                    <li key={item.slug}>
-                      <Link
-                        href={`/norma/${item.slug}`}
-                        className="block rounded-md px-2 py-1 text-sm text-ink/80 transition hover:bg-mint hover:text-ink"
-                      >
-                        <span className="font-medium">{item.code}</span>{" "}
-                        <span className="text-ink/60">{item.title}</span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </section>
-          ))}
+          {data.map((group) => {
+            const isCollapsed = collapsed[group.id] ?? false;
+            const hasItems = group.items.length > 0;
+            return (
+              <section key={group.id}>
+                <h2 className="mb-2">
+                  <button
+                    type="button"
+                    onClick={() => hasItems && toggleGroup(group.id)}
+                    aria-expanded={hasItems ? !isCollapsed : undefined}
+                    aria-controls={`niif-group-${group.id}`}
+                    disabled={!hasItems}
+                    className="flex w-full items-center justify-between text-xs font-bold uppercase tracking-wide text-ink/60 disabled:cursor-default"
+                  >
+                    <span>
+                      {group.label}
+                      {hasItems ? (
+                        <span className="ml-1 font-normal text-ink/40">
+                          ({group.items.length})
+                        </span>
+                      ) : null}
+                    </span>
+                    {hasItems ? (
+                      <span aria-hidden className="text-ink/40">
+                        {isCollapsed ? "▸" : "▾"}
+                      </span>
+                    ) : null}
+                  </button>
+                </h2>
+                {!hasItems ? (
+                  <p className="text-sm text-ink/40">Próximamente…</p>
+                ) : (
+                  <ul
+                    id={`niif-group-${group.id}`}
+                    className={`${isCollapsed ? "hidden" : "block"} space-y-1`}
+                  >
+                    {group.items.map((item) => (
+                      <li key={item.slug}>
+                        <Link
+                          href={`/norma/${item.slug}`}
+                          className="block rounded-md px-2 py-1 text-sm text-ink/80 transition hover:bg-mint hover:text-ink"
+                        >
+                          <span className="font-medium">{item.code}</span>{" "}
+                          <span className="text-ink/60">{item.title}</span>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </section>
+            );
+          })}
         </div>
       </nav>
     </>

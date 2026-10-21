@@ -1,0 +1,327 @@
+[
+  {
+    "slug": "sic-7",
+    "familia": "SIC",
+    "numero": 7,
+    "codigo": "SIC 7",
+    "titulo": "Introducción del euro",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de SIC 7 «Introducción del euro» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia SIC.",
+    "alcance": "[CONTENIDO DE EJEMPLO] SIC 7 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Introducción del euro». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en SIC 7 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Introducción del euro». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Introducción del euro» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a SIC 7. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría SIC 7 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Introducción del euro». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "sic-10",
+    "familia": "SIC",
+    "numero": 10,
+    "codigo": "SIC 10",
+    "titulo": "Ayudas gubernamentales: sin relación específica con actividades de operación",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de SIC 10 «Ayudas gubernamentales: sin relación específica con actividades de operación» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia SIC.",
+    "alcance": "[CONTENIDO DE EJEMPLO] SIC 10 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Ayudas gubernamentales: sin relación específica con actividades de operación». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en SIC 10 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Ayudas gubernamentales: sin relación específica con actividades de operación». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Ayudas gubernamentales: sin relación específica con actividades de operación» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a SIC 10. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría SIC 10 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Ayudas gubernamentales: sin relación específica con actividades de operación». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "sic-25",
+    "familia": "SIC",
+    "numero": 25,
+    "codigo": "SIC 25",
+    "titulo": "Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de SIC 25 «Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia SIC.",
+    "alcance": "[CONTENIDO DE EJEMPLO] SIC 25 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en SIC 25 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a SIC 25. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría SIC 25 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Impuesto a las ganancias: cambios en la situación fiscal de una entidad o de sus accionistas». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "sic-29",
+    "familia": "SIC",
+    "numero": 29,
+    "codigo": "SIC 29",
+    "titulo": "Acuerdos de concesión de servicios: Información a revelar",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de SIC 29 «Acuerdos de concesión de servicios: Información a revelar» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia SIC.",
+    "alcance": "[CONTENIDO DE EJEMPLO] SIC 29 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Acuerdos de concesión de servicios: Información a revelar». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en SIC 29 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Acuerdos de concesión de servicios: Información a revelar». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Acuerdos de concesión de servicios: Información a revelar» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a SIC 29. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría SIC 29 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Acuerdos de concesión de servicios: Información a revelar». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  },
+  {
+    "slug": "sic-32",
+    "familia": "SIC",
+    "numero": 32,
+    "codigo": "SIC 32",
+    "titulo": "Activos intangibles: costos de sitios web",
+    "objetivo": "[CONTENIDO DE EJEMPLO] El objetivo de SIC 32 «Activos intangibles: costos de sitios web» es ilustrar cómo se presentará el texto normativo dentro del lector. Este resumen sintético describe, de forma genérica, el propósito de la norma y debe reemplazarse por el objetivo oficial cuando se disponga del PDF correspondiente de la familia SIC.",
+    "alcance": "[CONTENIDO DE EJEMPLO] SIC 32 se aplicaría, en este texto de muestra, a las entidades y transacciones típicamente relacionadas con «Activos intangibles: costos de sitios web». El alcance real, con sus inclusiones y exclusiones, se incorporará al sustituir este marcador por el contenido oficial.",
+    "secciones": [
+      {
+        "id": "s1",
+        "titulo": "Reconocimiento y medición",
+        "parrafos": [
+          {
+            "id": "s1-p1",
+            "numero": "1.1",
+            "texto": "Una entidad reconocería los elementos descritos en SIC 32 cuando sea probable que los beneficios económicos futuros fluyan hacia la entidad y su costo pueda medirse con fiabilidad. (Texto de ejemplo)."
+          },
+          {
+            "id": "s1-p2",
+            "numero": "1.2",
+            "texto": "La medición inicial se realizaría al costo o al valor razonable, según corresponda al tratamiento previsto para «Activos intangibles: costos de sitios web». Este párrafo es un marcador y no constituye texto oficial."
+          },
+          {
+            "id": "s1-p3",
+            "numero": "1.3",
+            "texto": "Con posterioridad al reconocimiento inicial, la entidad aplicaría el modelo que mejor refleje la realidad económica de la transacción. Reemplazar por el párrafo normativo correspondiente."
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "titulo": "Información a revelar",
+        "parrafos": [
+          {
+            "id": "s2-p1",
+            "numero": "2.1",
+            "texto": "La entidad revelaría información que permita a los usuarios de los estados financieros evaluar el efecto de «Activos intangibles: costos de sitios web» sobre la situación financiera y el rendimiento. (Texto de ejemplo)."
+          },
+          {
+            "id": "s2-p2",
+            "numero": "2.2",
+            "texto": "Las revelaciones incluirían las políticas contables significativas y los juicios aplicados al preparar la información conforme a SIC 32. Marcador sintético pendiente de sustitución."
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "titulo": "Transición y fecha de vigencia",
+        "parrafos": [
+          {
+            "id": "s3-p1",
+            "numero": "3.1",
+            "texto": "Una entidad aplicaría SIC 32 de forma retroactiva o prospectiva según las disposiciones de transición que se definan. Este contenido es ilustrativo y debe actualizarse."
+          },
+          {
+            "id": "s3-p2",
+            "numero": "3.2",
+            "texto": "La fecha de vigencia y las excepciones de transición se precisarán al incorporar el texto oficial de la norma «Activos intangibles: costos de sitios web». (Texto de ejemplo)."
+          }
+        ]
+      }
+    ],
+    "sintetico": true
+  }
+]

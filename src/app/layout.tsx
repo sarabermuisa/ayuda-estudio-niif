@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Sidebar from "@/components/Sidebar";
+import { getSidebarGroups } from "@/lib/content";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -14,6 +15,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const sidebarGroups = getSidebarGroups();
+
   return (
     <html lang="es">
       <body className="min-h-screen bg-cream text-ink">
@@ -35,7 +38,7 @@ export default function RootLayout({
 
         <div className="mx-auto flex max-w-6xl flex-col gap-6 px-4 py-6 md:flex-row md:py-8">
           <aside className="md:sticky md:top-20 md:self-start">
-            <Sidebar />
+            <Sidebar groups={sidebarGroups} />
           </aside>
 
           <main className="min-w-0 flex-1">
